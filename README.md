@@ -10,7 +10,6 @@ Pour des raisons de confidentialité, certains fichiers ne sont pas inclus dans 
 ## Contenu du dépôt
 - **Scripts Python** (reconnaissance faciale, utilitaires, administration)
 - **Code web utilisateur** (HTML/CSS/JS) — partiellement publié
-- Configuration et exemples — **sans données sensibles**
 
 ## Scripts principaux
 
